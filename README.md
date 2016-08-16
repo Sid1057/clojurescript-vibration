@@ -1,4 +1,4 @@
-# coljurescript-vibration
+# clojurescript-vibration
 ##Overview
 
 ###Example:###

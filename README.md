@@ -1,7 +1,7 @@
 # clojurescript-vibration
 ## Overview
 
-### Example:###
+### Example:
 ``` clojure
 (vibrate 1000) ;vibration by one second
 ```
@@ -11,7 +11,7 @@
                          ;vibrate 3 seconds
 ```
 
-### Functions:###
+### Functions:
 ``` clojure
 (is-vibration-supported); Return true if the navigator contains vibrate property.
 

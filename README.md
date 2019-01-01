@@ -11,7 +11,7 @@
 ```
 #### Functions:
 ``` clojure
-(is-vibration-supported); Return true if the navigator contains vibrate property.
+(is-vibration-supported?); Return true if the navigator contains vibrate property.
 
 (vibrate duration); If vibration supported by browser device 
                   ; will vibrate by odd elements of duration vector 
